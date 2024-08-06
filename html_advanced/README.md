@@ -25,6 +25,9 @@ The `index.html` file is organized into the following sections:
 6. **FAQ**
 7. **Footer**
 
+![Image 1](images/image1.jpg)
+![Image 2](images/image2.jpg)
+
 ---
 
 ## 🛠 Instructions
@@ -119,7 +122,7 @@ Ensure the HTML code is W3C compliant by validating it with the [W3C Markup Vali
 
 ## 🎨 Design Reference
 
-The design for this project is available on Figma. Access the design file [here](#) and align the HTML structure with the provided wireframe.
+The design for this project is available on Figma. Access the design file [here](https://www.figma.com/design/XrEAsu1vQj5fhVaNG38d2W/Homepage?node-id=3558-0&t=ZZqbOOffJ72sK9M2-0) and align the HTML structure with the provided wireframe.
 
 ## 📝 Notes
 
@@ -129,6 +132,5 @@ The design for this project is available on Figma. Access the design file [here]
 
 ## 🙌 Acknowledgments
 
-- Design by [Designer Name](#)
-- Project specifications and guidelines provided [here](#)
+- Design by [Nacim Saafi](#)
 
